@@ -1,4 +1,4 @@
-Multiple Disease Prediction using Machine Learning
+MediPredict is a multiple disease prediction model using machine learning
 
   This project predicts the chances of three diseases – Diabetes, Heart Disease, and Parkinson’s Disease – using machine learning models.
   It is developed in Python with Streamlit as the frontend to make it easy to use.
